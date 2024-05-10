@@ -1,0 +1,28 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.wetv.vip	TRUE	/	FALSE	1746887049	guid	6db9e197eeebc5afcd009d4a9d1deba6
+.wetv.vip	TRUE	/	FALSE	1749046777	video_guid	6db9e197eeebc5afcd009d4a9d1deba6
+.wetv.vip	TRUE	/	FALSE	1749046777	uin	6db9e197eeebc5afcd009d4a9d1deba6
+.wetv.vip	TRUE	/	FALSE	1717078777	wetv_pt	v
+.wetv.vip	TRUE	/	FALSE	1749046777	video_appid	1200004
+.wetv.vip	TRUE	/	FALSE	1746022779	_qimei_uuid42	1841e15132710060224c68fa69cfb35dfe7e9ba3b5
+.wetv.vip	TRUE	/	FALSE	1746022779	_qimei_fingerprint	e7e36fb089d861c65d35d77fb7334e48
+.wetv.vip	TRUE	/	FALSE	1746887453	_qimei_q36	
+.wetv.vip	TRUE	/	FALSE	1746887453	_qimei_h38	8f95808d224c68fa69cfb35d0200000361841e
+wetv.vip	FALSE	/	FALSE	1749046782	optionalCookiePolicy	accept
+.wetv.vip	TRUE	/	FALSE	1749911453	_ga	GA1.1.1997766797.1714486783
+.wetv.vip	TRUE	/	FALSE	0	vplatform	2
+.wetv.vip	TRUE	/	FALSE	0	h38	8f95808d224c68fa69cfb35d0200000361841e
+.wetv.vip	TRUE	/	FALSE	1715437655	country_code	153513
+.wetv.vip	TRUE	/	FALSE	1746839017	_clck	i559o5%7C2%7Cfln%7C0%7C1581
+.wetv.vip	TRUE	/	FALSE	1748182783	__gads	ID=2076d857235ec732:T=1714486783:RT=1715351398:S=ALNI_Mbf187pEt82EFDlumLicfbwvrmYTA
+.wetv.vip	TRUE	/	FALSE	1748182783	__gpi	UID=00000e01a672241d:T=1714486783:RT=1715351398:S=ALNI_MbhEcBz2jzZlYEpxHKRDYwCoHO2hQ
+.wetv.vip	TRUE	/	FALSE	1730038783	__eoi	ID=41b1a9dc4f2b0908:T=1714486783:RT=1715351398:S=AA-AfjYS5eizTa61gnooQ7iX6rP8
+.wetv.vip	TRUE	/	FALSE	1746887446	FCNEC	%5B%5B%22AKsRol8mGcYiX-FQqryWj8QH0fqOyc2jyCH38Kj9tngCoxuohLsNJGrHCHDSCPchNYTwcA1GRKsdlk5RyvFOfCrRjKQ1ujqLTjpEgK6w-0YGIwdjyPKVgeuf26nKIIF5Pxo84HBhORsWRskJVIRUUqrubg-ukWXsaw%3D%3D%22%5D%5D
+.wetv.vip	TRUE	/	FALSE	1717943453	lang_code	1491988
+.wetv.vip	TRUE	/	FALSE	1717943453	wetv_lang	en
+.wetv.vip	TRUE	/	FALSE	1749911453	_ga_2VG0PSP9MN	GS1.1.1715349741.17.1.1715351453.51.0.0
+.wetv.vip	TRUE	/	FALSE	0	h38_sign	
+.wetv.vip	TRUE	/	FALSE	1715437854	_clsk	zkyihj%7C1715351454227%7C24%7C0%7Cw.clarity.ms%2Fcollect
